@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="tdmatrixbot",
-    version="0.1.0",
+    version="0.1.1",
     author="TapDev",
     author_email="tapdevdenmark@gmail.com",
     description="Python module for making Matrix bots.",
